@@ -1,0 +1,178 @@
+{
+  "subjects": [
+    {
+      "id": "maths",
+      "name": "Mathematics",
+      "sinhalaName": "ගණිතය",
+      "tamilName": "கணிதம்",
+      "category": "Core",
+      "iconCodePoint": 61476,
+      "iconFontFamily": "MaterialIcons",
+      "colorHex": "#2563EB",
+      "totalUnits": 32,
+      "totalPapers": 15
+    },
+    {
+      "id": "science",
+      "name": "Science",
+      "sinhalaName": "විද්‍යාව",
+      "tamilName": "அறிவியல்",
+      "category": "Core",
+      "iconCodePoint": 58763,
+      "iconFontFamily": "MaterialIcons",
+      "colorHex": "#059669",
+      "totalUnits": 28,
+      "totalPapers": 14
+    },
+    {
+      "id": "history",
+      "name": "History",
+      "sinhalaName": "ඉතිහාසය",
+      "tamilName": "வரலாறு",
+      "category": "Core",
+      "iconCodePoint": 57451,
+      "iconFontFamily": "MaterialIcons",
+      "colorHex": "#D97706",
+      "totalUnits": 18,
+      "totalPapers": 12
+    },
+    {
+      "id": "sinhala",
+      "name": "Sinhala Language",
+      "sinhalaName": "සිංහල භාෂාව හා සාහිත්‍යය",
+      "tamilName": "சிங்கள மொழி",
+      "category": "Core",
+      "iconCodePoint": 58283,
+      "iconFontFamily": "MaterialIcons",
+      "colorHex": "#DC2626",
+      "totalUnits": 22,
+      "totalPapers": 10
+    },
+    {
+      "id": "english",
+      "name": "English Language",
+      "sinhalaName": "ඉංග්‍රීසි භාෂාව",
+      "tamilName": "ஆங்கிலம்",
+      "category": "Core",
+      "iconCodePoint": 58280,
+      "iconFontFamily": "MaterialIcons",
+      "colorHex": "#7C3AED",
+      "totalUnits": 16,
+      "totalPapers": 14
+    },
+    {
+      "id": "commerce",
+      "name": "Business & Accounting",
+      "sinhalaName": "ව්‍යාපාර හා ගිණුම්කරණය",
+      "tamilName": "வணிகக் கல்வி",
+      "category": "Basket 1",
+      "iconCodePoint": 57408,
+      "iconFontFamily": "MaterialIcons",
+      "colorHex": "#0891B2",
+      "totalUnits": 20,
+      "totalPapers": 8
+    },
+    {
+      "id": "ict",
+      "name": "Information Technology",
+      "sinhalaName": "තොරතුරු තාක්ෂණය (ICT)",
+      "tamilName": "தகவல் தொடர்பாடல்",
+      "category": "Basket 3",
+      "iconCodePoint": 57777,
+      "iconFontFamily": "MaterialIcons",
+      "colorHex": "#4F46E5",
+      "totalUnits": 14,
+      "totalPapers": 10
+    },
+    {
+      "id": "buddhism",
+      "name": "Buddhism",
+      "sinhalaName": "බුද්ධ ධර්මය",
+      "tamilName": "பௌத்த மதம்",
+      "category": "Core",
+      "iconCodePoint": 58863,
+      "iconFontFamily": "MaterialIcons",
+      "colorHex": "#EA580C",
+      "totalUnits": 24,
+      "totalPapers": 9
+    }
+  ],
+  "notes": [
+    {
+      "id": "note_maths_01",
+      "subjectId": "maths",
+      "subjectName": "Mathematics",
+      "unitNumber": 12,
+      "title": "Quadratic Equations (වර්ගජ සමීකරණ)",
+      "summary": "Formulas, factoring methods, and completing the square for Paper II questions.",
+      "readTimeMinutes": 7,
+      "grade": 11,
+      "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+      "keyPoints": [
+        "Standard form: ax² + bx + c = 0 (where a ≠ 0)",
+        "Quadratic formula: x = [-b ± √(b² - 4ac)] / 2a",
+        "Discriminant Δ = b² - 4ac determines nature of roots",
+        "Always write intermediate working steps for step marks"
+      ],
+      "contentBody": "Comprehensive explanation of quadratic solutions via factorization, completing the square, and quadratic formula."
+    },
+    {
+      "id": "note_science_01",
+      "subjectId": "science",
+      "subjectName": "Science",
+      "unitNumber": 5,
+      "title": "Chemical Reactions & Periodic Table (ආවර්තිතා වගුව)",
+      "summary": "Atomic structure, first 20 elements, electronegativity trends, and ionic vs covalent bonds.",
+      "readTimeMinutes": 8,
+      "grade": 11,
+      "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+      "keyPoints": [
+        "First 20 elements mnemonic: H, He, Li, Be, B, C, N, O, F, Ne, Na, Mg, Al, Si, P, S, Cl, Ar, K, Ca",
+        "Group number indicates valence electrons",
+        "Period number indicates energy shells",
+        "Ionic bonds involve transfer of electrons; covalent bonds involve sharing"
+      ],
+      "contentBody": "Classification of elements, periodic table trends, ionization energy, electronegativity, and bonding types."
+    }
+  ],
+  "papers": [
+    {
+      "id": "paper_maths_2024",
+      "subjectId": "maths",
+      "subjectName": "Mathematics",
+      "title": "2024 G.C.E. O/L Mathematics Paper I & II",
+      "year": 2024,
+      "type": "Past Paper",
+      "medium": "Sinhala",
+      "paperPart": "Combined",
+      "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+      "markingSchemePdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+      "fileSize": "3.1 MB"
+    },
+    {
+      "id": "paper_science_2024",
+      "subjectId": "science",
+      "subjectName": "Science",
+      "title": "2024 G.C.E. O/L Science Past Paper",
+      "year": 2024,
+      "type": "Past Paper",
+      "medium": "Sinhala",
+      "paperPart": "Combined",
+      "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+      "markingSchemePdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+      "fileSize": "3.4 MB"
+    }
+  ],
+  "quotes": [
+    {
+      "text": "Success isn't overnight. It's when everyday you get a little better than the day before.",
+      "sinhalaText": "ජයග්‍රහණය එක රැයකින් ලැබෙන්නක් නොවේ. සෑම දිනකම ඊයේට වඩා මඳක් හෝ ඉදිරියට යන්න.",
+      "author": "Dwayne Johnson"
+    },
+    {
+      "text": "Believe in yourself and all that you are. 9 A's are within your reach with consistent revision!",
+      "sinhalaText": "ඔබේ හැකියාවන් විශ්වාස කරන්න. නොපසුබට උත්සාහයෙන් ඔබට A 9 හිමිකරගත හැක!",
+      "author": "O/L Champion Mentor"
+    }
+  ]
+}
